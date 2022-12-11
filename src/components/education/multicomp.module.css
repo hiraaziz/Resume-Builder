@@ -1,0 +1,21 @@
+.eduContainer{
+    background-color: white;
+    position: absolute;
+    transform: translate(12%,5%);
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 1px rgb(214, 214, 214);
+}
+.link{
+    text-decoration: none;
+}
+.educationfield{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}

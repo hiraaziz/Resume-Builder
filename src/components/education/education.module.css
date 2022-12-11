@@ -1,0 +1,18 @@
+.editbutton{
+    display: none;
+}
+.editshow{
+    display: inline-block;
+}
+.edithide{
+    display: none;
+}
+.educontent{
+    display: flex;
+    gap: 5px;
+}
+.educontent{
+    display: flex;
+    column-gap: 10px;
+    flex-wrap: wrap;
+}
