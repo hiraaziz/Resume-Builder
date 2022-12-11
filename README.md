@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Project Link :[Link text](https://hiraresumebuilder.netlify.app/)
+Project Link :[Project URL](https://hiraresumebuilder.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
